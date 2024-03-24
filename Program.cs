@@ -1,4 +1,5 @@
-﻿using System.IO;
+//Written for Warrecs 2. https://store.steampowered.com/app/1360500
+using System.IO;
 
 namespace Warrecs_2_Extractor
 {
